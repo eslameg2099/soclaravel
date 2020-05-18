@@ -8,11 +8,11 @@
 </p>
 
 ## About project 
--view posts
--like and deslike
--comment on posts
--profile for users 
--sent friend and remove
--tag in posts
--list users
+.view posts
+.like and deslike
+.comment on posts
+.profile for users 
+.sent friend and remove
+.tag in posts
+.list users
 
